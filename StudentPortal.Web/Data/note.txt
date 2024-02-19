@@ -1,0 +1,2 @@
+﻿A DbContext Class is a Class file which act like a bridge between entityframework core and the database.
+Using this class and the property of the class we will be able to talk to the tables of the SQLServer from our application.
